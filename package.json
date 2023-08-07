@@ -1,0 +1,9 @@
+{
+  "name": "api-f",
+  "version": "1.0.0",
+  "description": "My Web Application",
+  "scripts": {
+    "start": "echo 'No server required for front-end app.'"
+  },
+  "dependencies": {}
+}
